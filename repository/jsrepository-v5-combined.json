@@ -6350,13 +6350,13 @@
           ]
         },
         {
-          "below": "3.999.999",
+          "below": "4.999.999",
           "severity": "low",
           "cwe": [
             "CWE-1104"
           ],
           "identifiers": {
-            "summary": "Bootstrap before 4.0.0 is end-of-life and no longer maintained.",
+            "summary": "Bootstrap before 5.0.0 is end-of-life and no longer maintained.",
             "retid": "72"
           },
           "info": [
